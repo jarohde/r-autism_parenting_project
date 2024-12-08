@@ -1,0 +1,2 @@
+subreddit,num_overall_posts,num_submissions,num_comments,num_submissions_with_urls,num_comments_with_urls,num_posts_with_urls,num_unique_users,density,number_graph_edges,number_graph_nodes,strongest_connected_component_size,mean_graph_degree,median_graph_degree
+Autism_Parenting,14621,971,13650,,,,3759,0.0005982448934690856,8451,3759,59,4.496408619313647,2.0
